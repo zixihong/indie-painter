@@ -2,7 +2,7 @@
 
 Live demo: https://indie-painter.vercel.app
 
-A lightweight browser painting app — draw, erase, pick colors, change brush size, undo/redo and export your artwork as an image. Built with plain JavaScript and focused on a small, fast, and friendly user experience.
+A lightweight browser painting app that uses your keystroke combinations to paint.
 
 ## Table of contents
 - [Features](#features)
