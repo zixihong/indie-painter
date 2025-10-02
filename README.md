@@ -33,8 +33,6 @@ Open the live demo: https://indie-painter.vercel.app
 - HTML5 Canvas
 - CSS
 
-(Repository language shows JavaScript — replace with actual stack details if additional frameworks are used.)
-
 ## Getting started
 
 Prerequisites
@@ -74,8 +72,6 @@ npm start
 yarn start
 ```
 
-Note: If this project uses different scripts (for example a Vite/Parcel/Webpack setup), update the commands above to match package.json.
-
 ## Usage
 - Choose a color or use the color picker.
 - Adjust brush size using the slider.
@@ -113,8 +109,6 @@ Please follow these steps:
 2. Create a branch: git checkout -b feat/my-feature
 3. Make changes and add tests if applicable
 4. Submit a PR describing your change
-
-If you want, tell me what contribution guidelines or code style you prefer and I can add a CONTRIBUTING.md.
 
 ## License
 No license file is included in the repository. If you want this project to be open-source, add a license (MIT, Apache-2.0, etc.) and I can update this README accordingly.
